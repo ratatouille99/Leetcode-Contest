@@ -1,4 +1,4 @@
-# [Search A 2d Matrix] (https://leetcode.com/problems/search-a-2d-matrix/)
+# [Search A 2d Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 ```c++
 class Solution {
 public:
@@ -21,4 +21,3 @@ public:
     }
 };
 ```
-
