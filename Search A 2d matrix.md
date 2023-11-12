@@ -1,5 +1,5 @@
 # [Search A 2d Matrix] (https://leetcode.com/problems/search-a-2d-matrix/)
-´´´c++
+```c++
 class Solution {
 public:
     bool searchMatrix(vector<vector<int>>& matrix, int target) {
@@ -20,4 +20,5 @@ public:
         return false;
     }
 };
-´´´
+```
+
